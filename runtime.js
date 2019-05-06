@@ -63,7 +63,7 @@
 /******/
 /******/ 	// script path function
 /******/ 	function jsonpScriptSrc(chunkId) {
-/******/ 		return __webpack_require__.p + "" + ({"balance-balance-module-ngfactory":"balance-balance-module-ngfactory","tokens-tokens-module-ngfactory":"tokens-tokens-module-ngfactory"}[chunkId]||chunkId) + ".js"
+/******/ 		return __webpack_require__.p + "" + ({"balance-balance-module-ngfactory":"balance-balance-module-ngfactory","tokens-tokens-module-ngfactory":"tokens-tokens-module-ngfactory","wallet-wallet-module-ngfactory":"wallet-wallet-module-ngfactory"}[chunkId]||chunkId) + ".js"
 /******/ 	}
 /******/
 /******/ 	// The require function
