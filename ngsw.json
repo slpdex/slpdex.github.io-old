@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1557238010583,
+  "timestamp": 1557260508561,
   "index": "/index.html",
   "assetGroups": [
     {
@@ -8,15 +8,15 @@
       "installMode": "prefetch",
       "updateMode": "prefetch",
       "urls": [
-        "/5.5a6a6a6763a1432a65f3.js",
-        "/6.97304c1e65dd2ae5dad2.js",
-        "/7.11b781689e1215dbab2d.js",
+        "/5.ecc01c34b3a824a44459.js",
+        "/6.7bbf710c9fdbbf09fe68.js",
+        "/7.4ae923276a586b6907e9.js",
         "/es2015-polyfills.c5dd28b362270c767b34.js",
         "/favicon.ico",
         "/index.html",
-        "/main.b524537d5756ea8810b9.js",
+        "/main.07bf92e079127935b472.js",
         "/polyfills.8bbb231b43165d65d357.js",
-        "/runtime.11ee0b82e400f949e566.js",
+        "/runtime.f3e6ac02099d2984e0b0.js",
         "/styles.b7d38f5fb36653d1a9e5.css"
       ],
       "patterns": []
@@ -37,9 +37,9 @@
   ],
   "dataGroups": [],
   "hashTable": {
-    "/5.5a6a6a6763a1432a65f3.js": "8cd750621592ef5efed04cfb10ea5a6837c7930a",
-    "/6.97304c1e65dd2ae5dad2.js": "ad4f7d3bb78b4326a3579d44b2ade139e2e542c0",
-    "/7.11b781689e1215dbab2d.js": "51d3358dc24043451ffcfebd3c99783ae2c06574",
+    "/5.ecc01c34b3a824a44459.js": "8a51ec2000d33e7282dde76b308c85bf645ae8cf",
+    "/6.7bbf710c9fdbbf09fe68.js": "026c3d4a1f63db03dead26a9d09d3e337211e4bb",
+    "/7.4ae923276a586b6907e9.js": "44d47e4daf24d3e44d7b158aea83a4d6d82c2123",
     "/assets/bg-optimized.jpg": "e21b9eb8d31e66b66bfae2a9858180c77dcf0512",
     "/assets/bg.png": "eb6211430028d5fa05d37d6afe9113f16ff7d5a1",
     "/assets/bitcoin-cash.png": "631fd123ab10d10dd9b80b9949d7d44bbacad6ac",
@@ -47,10 +47,10 @@
     "/assets/slp.png": "84c944f3c780960b374811f889e66f6385011496",
     "/es2015-polyfills.c5dd28b362270c767b34.js": "b7a81c61d32b0b12737f0c13f45973ba391cd7f9",
     "/favicon.ico": "84161b857f5c547e3699ddfbffc6d8d737542e01",
-    "/index.html": "d6db11f9301dbfa39224787e635082e0bf5fb8cb",
-    "/main.b524537d5756ea8810b9.js": "dad93bab98fe32a724ed519020ce830e418be6a0",
+    "/index.html": "12546710c463805c0ea3f26eaa3d85c76edda0a8",
+    "/main.07bf92e079127935b472.js": "536d4c359a526e4c217e7768a8afaf20842cb1d2",
     "/polyfills.8bbb231b43165d65d357.js": "ffa449995bf2eba2ccd0a002417214f7eb75e7b5",
-    "/runtime.11ee0b82e400f949e566.js": "4b6cec172e31ae2a91e7a51a44152d4a2308c82c",
+    "/runtime.f3e6ac02099d2984e0b0.js": "211692c8617b62e3419774bdb60b1ad8c6f5dbc9",
     "/styles.b7d38f5fb36653d1a9e5.css": "55cf7c02da0bd8df66427b0ef0f162945eff374b"
   },
   "navigationUrls": [
