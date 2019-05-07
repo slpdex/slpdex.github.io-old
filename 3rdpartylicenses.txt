@@ -38,9 +38,6 @@ MIT
 @angular/router
 MIT
 
-@angular/service-worker
-MIT
-
 animejs
 MIT
 The MIT License
