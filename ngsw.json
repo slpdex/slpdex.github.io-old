@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1557585796033,
+  "timestamp": 1557679243222,
   "index": "/index.html",
   "assetGroups": [
     {
@@ -8,17 +8,17 @@
       "installMode": "prefetch",
       "updateMode": "prefetch",
       "urls": [
-        "/5.297ccd3e4ba268a2bcbf.js",
-        "/6.ca842f11865d0bbda80c.js",
-        "/7.0a861885a22ad44aee32.js",
+        "/5.3df70f2c163abb987a48.js",
+        "/6.23616448186582ce3c10.js",
+        "/7.9a880676a284a5beb4c9.js",
         "/8.829d063b620e2a5edecf.js",
         "/es2015-polyfills.71d2101772d93129d4a4.js",
         "/favicon.ico",
         "/index.html",
-        "/main.465b289a14fe39d11d25.js",
+        "/main.733cdf1225e656186c33.js",
         "/polyfills.b281c4e3785a98e71988.js",
-        "/runtime.c5c4adb0e9e495570ed9.js",
-        "/styles.ff383221e4db507cf5dc.css"
+        "/runtime.1e1511cd24de732eadef.js",
+        "/styles.04a2806403036ca7ac73.css"
       ],
       "patterns": []
     },
@@ -27,6 +27,7 @@
       "installMode": "lazy",
       "updateMode": "prefetch",
       "urls": [
+        "/assets/bch.png",
         "/assets/bg-optimized.jpg",
         "/assets/bg.png",
         "/assets/bitcoin-cash.png",
@@ -38,10 +39,11 @@
   ],
   "dataGroups": [],
   "hashTable": {
-    "/5.297ccd3e4ba268a2bcbf.js": "5e258abbb301afa00cf1d494bf15122f8306c120",
-    "/6.ca842f11865d0bbda80c.js": "10b6e2620233423c0345c54341bae4118191ea56",
-    "/7.0a861885a22ad44aee32.js": "cd0482894baa02e1e3b5dc63e0a6bd2673f79c6b",
+    "/5.3df70f2c163abb987a48.js": "575e4184ff65ac53992daffe64743225d75a1882",
+    "/6.23616448186582ce3c10.js": "8b8e477ac848098bbcf4bddcfc10e455b5a50391",
+    "/7.9a880676a284a5beb4c9.js": "b6bb0aa40f794abba3fdb77515b4dd2a8181d5ef",
     "/8.829d063b620e2a5edecf.js": "48448bdfc8ceb74cea5421e4f0d8d4a939c2b4c0",
+    "/assets/bch.png": "92608bcd026693bff28d59f87f9aeda8c89c5595",
     "/assets/bg-optimized.jpg": "e21b9eb8d31e66b66bfae2a9858180c77dcf0512",
     "/assets/bg.png": "eb6211430028d5fa05d37d6afe9113f16ff7d5a1",
     "/assets/bitcoin-cash.png": "631fd123ab10d10dd9b80b9949d7d44bbacad6ac",
@@ -49,11 +51,11 @@
     "/assets/slp.png": "84c944f3c780960b374811f889e66f6385011496",
     "/es2015-polyfills.71d2101772d93129d4a4.js": "70f9860fe243e9f3c742fb81231ee8180c284a55",
     "/favicon.ico": "84161b857f5c547e3699ddfbffc6d8d737542e01",
-    "/index.html": "e0682bba176b93535872862328be95f5a2c9fbbf",
-    "/main.465b289a14fe39d11d25.js": "4dbbef1ce3445df307e7faa559609ff9b99a5ca9",
+    "/index.html": "f745d02c86dbdb2719ef19c088b59589237c39ea",
+    "/main.733cdf1225e656186c33.js": "6e4e25530982f72492998f989727027b1f049b02",
     "/polyfills.b281c4e3785a98e71988.js": "827384953740522d4428899af243d7802ab9b66f",
-    "/runtime.c5c4adb0e9e495570ed9.js": "e0d2c202cfafb56a67423415b73fed74e3c1453a",
-    "/styles.ff383221e4db507cf5dc.css": "92efbedcd59843eb32037e000a4534018deca98e"
+    "/runtime.1e1511cd24de732eadef.js": "494465c919d593a4d73818630a00a444b757cb11",
+    "/styles.04a2806403036ca7ac73.css": "437d35463a79168b414b149bb3f8572ff05fb5f0"
   },
   "navigationUrls": [
     {
