@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1557751663832,
+  "timestamp": 1557752057985,
   "index": "/index.html",
   "assetGroups": [
     {
@@ -41,7 +41,8 @@
         "/assets/bitcoin-cash.png",
         "/assets/bitcoin-com.png",
         "/assets/slp.png",
-        "/assets/slpdex_192x192.png"
+        "/assets/slpdex_192x192.png",
+        "/assets/slpdex_512x512.png"
       ],
       "patterns": []
     }
@@ -65,6 +66,7 @@
     "/assets/bitcoin-com.png": "904d235bbad1e9094967827bb4124ea08bc3670a",
     "/assets/slp.png": "84c944f3c780960b374811f889e66f6385011496",
     "/assets/slpdex_192x192.png": "df36a04ce632c14b448d6fd70fd501156a521873",
+    "/assets/slpdex_512x512.png": "f353fef5b257961cb89ed7abdbba39895035ebcd",
     "/favicon.ico": "84161b857f5c547e3699ddfbffc6d8d737542e01",
     "/index.html": "84aad3c1152b79c9aa6ca8ec49c9a698d5650c87",
     "/main-es2015.6e23d7b40d2983f525b0.js": "b412e85963cdcfeaf8700cbd40b0d63bca7ba7fb",
