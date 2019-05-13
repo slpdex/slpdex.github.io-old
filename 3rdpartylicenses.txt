@@ -132,7 +132,7 @@ SOFTWARE.
 
 
 
-cashcontracts-bch
+cashcontracts
 UNLICENSED
 
 cashcontracts-wasm
