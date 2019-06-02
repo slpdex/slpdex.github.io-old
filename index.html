@@ -40,16 +40,23 @@
 <link rel="stylesheet" href="styles.12ceef826abada2d3ff0.css"></head>
 
 <body>
-  <!-- Global site tag (gtag.js) - Google Analytics -->
-  <script async
-          src="https://www.googletagmanager.com/gtag/js?id=UA-141268227-1">
-          </script>
-
+  <!-- Google Analytics -->
   <script>
-    window.dataLayer = window.dataLayer || [];
-    function gtag() { dataLayer.push(arguments); }
-    gtag('js', new Date());
+    window.ga = window.ga || function () { (ga.q = ga.q || []).push(arguments) }; ga.l = +new Date;
+    ga('create', 'UA-141268227-1', 'auto');
+
+    ga('require', 'eventTracker');
+    ga('require', 'outboundLinkTracker');
+    ga('require', 'urlChangeTracker');
+    ga('require', 'outboundLinkTracker');
+
+    ga('send', 'pageview');
   </script>
+  <script async
+          src='https://www.google-analytics.com/analytics.js'></script>
+  <script async
+          src="assets/autotrack.js"></script>
+  <!-- End Google Analytics -->
 
   <script>
     WebFontConfig = {
@@ -78,6 +85,6 @@
   </noscript>
 
   <app-root></app-root>
-<script src="runtime-es2015.77344df82da5284fa3d8.js" type="module"></script><script src="polyfills-es2015.b537d9ca579b30f26352.js" type="module"></script><script src="runtime-es5.a3c1d26c1107cfca21fc.js" nomodule></script><script src="polyfills-es5.f56e0b01cd22c2209161.js" nomodule></script><script src="main-es2015.074bfed853d2ba252980.js" type="module"></script><script src="main-es5.aa9aab3ab6032f283245.js" nomodule></script></body>
+<script src="runtime-es2015.0195a59403edd4c22064.js" type="module"></script><script src="polyfills-es2015.b537d9ca579b30f26352.js" type="module"></script><script src="runtime-es5.658ca54bde06099f7394.js" nomodule></script><script src="polyfills-es5.f56e0b01cd22c2209161.js" nomodule></script><script src="main-es2015.2bfae39a9dfc72d740d3.js" type="module"></script><script src="main-es5.165ce9ffc48bc89cd3ff.js" nomodule></script></body>
 
 </html>
