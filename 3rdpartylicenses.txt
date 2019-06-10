@@ -93,9 +93,6 @@ MIT
 @angular/router
 MIT
 
-@angular/service-worker
-MIT
-
 big-integer
 Unlicense
 This is free and unencumbered software released into the public domain.
