@@ -6,6 +6,9 @@
   <title>SLPDEX - SLP Token DEX</title>
   <base href="/">
 
+  <meta http-equiv="X-UA-Compatible"
+        content="IE=edge">
+
   <meta name="viewport"
         content="initial-scale=1, maximum-scale=1">
 
@@ -43,6 +46,12 @@
 <link rel="stylesheet" href="styles.90d288acbc0edfbf3fbb.css"></head>
 
 <body>
+  <!-- TextEncoding polyfill for Edge -->
+  <script src="https://cdn.jsdelivr.net/npm/text-encoding@0.7.0/lib/encoding.min.js"></script>
+
+  <!-- EventSource polyfill for Edge -->
+  <script src="https://cdn.jsdelivr.net/npm/event-source-polyfill@1.0.5/src/eventsource.min.js"></script>
+
   <!-- Google Analytics -->
   <script>
     window.ga = window.ga || function () { (ga.q = ga.q || []).push(arguments) }; ga.l = +new Date;
@@ -65,7 +74,7 @@
     WebFontConfig = {
       google: {
         families: [
-          'Montserrat:400,500,600,700',
+          'Montserrat:400,500,600,700&display=swap',
         ]
       }
     };
@@ -83,6 +92,6 @@
   </noscript>
 
   <app-root></app-root>
-<script src="runtime-es2015.9c68e8d9baf14ec95016.js" type="module"></script><script src="polyfills-es2015.31c645f7bd3f65ab4fb4.js" type="module"></script><script src="runtime-es5.6aacc30d53b3ced5cbc4.js" nomodule></script><script src="polyfills-es5.a93fa281b29799ba7ad7.js" nomodule></script><script src="main-es2015.37a414a92941ee3d9ec6.js" type="module"></script><script src="main-es5.1f5fb386bcf36d0d121b.js" nomodule></script></body>
+<script src="runtime-es2015.b124078b325535351874.js" type="module"></script><script src="polyfills-es2015.af68884a859628567b65.js" type="module"></script><script src="runtime-es5.99fbe707752ad4828de4.js" nomodule></script><script src="polyfills-es5.842dea2f7039bf45d391.js" nomodule></script><script src="main-es2015.f40be0a9fd4a3ea120eb.js" type="module"></script><script src="main-es5.1f07210256b3f0dfc189.js" nomodule></script></body>
 
 </html>
