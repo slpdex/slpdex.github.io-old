@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1561585452767,
+  "timestamp": 1561586338523,
   "index": "/index.html",
   "assetGroups": [
     {
@@ -127,7 +127,7 @@
     "/assets/slpdex_512x512.png": "f353fef5b257961cb89ed7abdbba39895035ebcd",
     "/common-es2015.ce45674d112a6884ac8a.js": "f621ca745da1d7a77508f5409bee05f5ed8447f3",
     "/common-es5.334f52d9020e3f0e6951.js": "bfcd5138b8ad2d028363a4a6fc8990ce58032f28",
-    "/favicon.ico": "84161b857f5c547e3699ddfbffc6d8d737542e01",
+    "/favicon.ico": "07bd5fa3066b69851cd08820ce6a15d4f36e9f25",
     "/index.html": "358c34e5f8db3bb7bd1d799aea0f2e189151e00b",
     "/main-es2015.f40be0a9fd4a3ea120eb.js": "6f31bb3e6e5d0a74d36f7a9da41d2958f3c60d77",
     "/main-es5.1f07210256b3f0dfc189.js": "01675c16a0486315626ebf35b1f765a5bdc0fb27",
