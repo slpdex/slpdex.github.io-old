@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1561906218424,
+  "timestamp": 1562074104752,
   "index": "/index.html",
   "assetGroups": [
     {
@@ -69,6 +69,7 @@
         "/assets/bitcoin-cash.webp",
         "/assets/bitcoin-com.png",
         "/assets/bitcoin-com.webp",
+        "/assets/promo.png",
         "/assets/slp.png",
         "/assets/slp.webp",
         "/assets/slpdex_192x192.png",
@@ -121,6 +122,7 @@
     "/assets/bitcoin-cash.webp": "9fa6fb79ebfe9488aaae4908a6d0685d72bc5f7b",
     "/assets/bitcoin-com.png": "75ecb14440fcba6292cc2f49186c6f44d5d3ca64",
     "/assets/bitcoin-com.webp": "d5ca26cc58314e36381ce7313f0d99abda0cf3da",
+    "/assets/promo.png": "fc5c753ad5832013a784ffd017e1754dfa16fdb3",
     "/assets/slp.png": "84c944f3c780960b374811f889e66f6385011496",
     "/assets/slp.webp": "ace09d16074930191a8978a2d0615a11e979e6d0",
     "/assets/slpdex_192x192.png": "df36a04ce632c14b448d6fd70fd501156a521873",
